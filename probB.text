@@ -1,0 +1,35 @@
+ddress of local variable A : 0x16bcb3248
+Address of local variable B : 0x16bcb3244
+Address of n in Plus : 0x16bcb31e8
+Address of n in Plus : 0x16bcb31c8
+Address of n in Plus : 0x16bcb31a8
+Address of n in Plus : 0x16bcb3188
+Address of n in Plus : 0x16bcb3168
+Address of n in Plus : 0x16bcb3148
+Address of n in Plus : 0x16bcb3128
+Address of n in Plus : 0x16bcb3108
+Address of n in Plus : 0x16bcb30e8
+Address of n in Plus : 0x16bcb30c8
+Address of  malloc A [1] : 0x145606880
+Address of  malloc A [2] : 0x145606884
+Address of  malloc A [3] : 0x145606888
+Address of  malloc A [4] : 0x14560688c
+Address of  malloc A [5] : 0x145606890
+Address of  malloc A [6] : 0x145606894
+Address of  malloc A [7] : 0x145606898
+Address of  malloc A [8] : 0x14560689c
+Address of  malloc A [9] : 0x1456068a0
+Address of  malloc A [10] : 0x1456068a4
+Address of  malloc C : 0x1456068e0
+Address of  malloc C : 0x145606910
+Address of  malloc C : 0x145606940
+Address of  malloc C : 0x145606970
+Address of  malloc C : 0x1456069a0
+Address of  malloc C : 0x1456069d0
+Address of  malloc C : 0x145606a00
+Address of  malloc C : 0x145606a30
+Address of  malloc C : 0x145606bb0
+Address of  malloc C : 0x145606be0
+Address of global variable A : 0x104154004
+Address of global variable B : 0x104154008
+Address of global variable C: 0x104154000
